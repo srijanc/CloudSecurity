@@ -1,0 +1,253 @@
+
+                <div style="background-image:url(images/chbg.jpg); padding-left:20px;font-family: Arial; font-size:13px ">
+                    
+    <div>
+        <!-- Content start-->
+        <h1>
+                    Mysore Attractions</h1><table width="100%" class="arial" 0"="" style="padding: 10px;  border=">
+            <tbody>
+                
+                <tr>
+                    <td class="engContent">
+                        <p>
+                            <img width="193" height="153" src=" images/aboutmysore1.jpg" alt="Smiley face" style="float: right; padding-left: 20px;">Mysore is a major tourist city of Karnataka. The city
+                            was the erstwhile capital of the state and hence has played an important role in
+                            the history of the state and of South India. Today it has developed into a modern
+                            city like many other cities in the country. But this city has not lost touch with
+                            its rich historical and cultural legacy. Mysore city is a favourat tourist destination
+                            in Karnataka. Tourist from within the country and from outside come to see the splendor
+                            of the city of Mysore. The city has a number of places a person can visit. There
+                            are a number of Royal buildings, gardens, water parks, temples, museums, zoo and
+                            modern amusement parks.
+                        </p>
+                        <br>
+                        <b style="font-size: 18px; color: #690606;">Places In And Around Mysore</b>
+                        <br>
+                        <p id="mysorepalace">
+                            <img width="193" height="153" src=" images/aboutmysore2.jpg" alt="Smiley face" style="float: left; padding-right: 20px; padding-bottom: 3px;">
+                            </p><h3>
+                                Mysore Palace</h3>
+                            The Palace of Mysore (also known as the Amba Vilas Palace) is a palace situated
+                            in the city of Mysore in southern India. It is the official residence of the Wodeyars
+                            - the erstwhile royal family of Mysore that ruled the princely state of Mysore for
+                            over seven centuries, and also houses two durbar halls . Mysore palace is now one
+                            of the most famous tourist attractions in India after Taj Mahal with more than 2.7
+                            million visitors. Although tourists are allowed to visit the palace, they are not
+                            allowed to take photographs inside the palace.
+                            <br>
+                        <p></p>
+                        <br>
+                        <br>
+                        <p>
+                            <img width="193" height="153" src=" images/Jaganmohan_Palace.jpg" alt="Smiley face" style="float: right; padding-left: 20px;">
+                            </p><h3>
+                                Jaganmohan Palace</h3>
+                            A little away from the main Mysore palace is Jagmohan Palace and Art Gallery. Another
+                            popular attraction is the gothic style St. Philomena’s Church on the Ashoka Road.
+                            Those interested in museums, Mysore city has a number of them. The Rail Museum is
+                            located on KRS Road close the Mysore railway station. National Museum on Natural
+                            History is on the banks of Karanji Lake. Folk Art Museum is located in Jayalakshmi
+                            Vilas Mansion, that is inside the Mysore University campus.Oriental Research Institute
+                            is one of its kind in the country that preserves many thousands of ancient manuscripts,
+                            including Kautilya’s Arthashastra of 4th Century BC.<br>
+                            <br>
+                        <p></p>
+                        <p>
+                            <img width="193" height="153" src=" images/ranganathittu.jpg" alt="Smiley face" style="float: left; padding-right: 20px">
+                            </p><h3>
+                                Ranganthittu Bird Sanctuary</h3>
+                            Ranganthittu Bird Sanctuary also known as Paksi Kashi of Karnataka is a Bird Sanctuary
+                            in the Mandya District of the state of Karnataka in India. It is the largest bird
+                            sanctuary in the state, only 0.67 km². in area, which is about 40 acres and comprises
+                            six islets on the banks of the Kaveri river.Ranganthittu is located three kilometers
+                            away from the historic town of Srirangapatna and 16 kilometres (9.9 mi) north of
+                            Mysore.The sanctuary attracted about 2.90 lakh visitors during 2011-12, which shows
+                            its notability as important bird sanctuary of India.
+                            <br>
+                        <p></p>
+                        <br>
+                        <br>
+                        <p id="chamundeshwari">
+                            <img width="193" height="153" src=" images/aboutmysore5.jpg" alt="Smiley face" style="float: right; padding-left: 20px;">
+                            </p><h3>
+                                Chamundeshwari Temple</h3>
+                            The Chamundeshwari Temple (???? ???????????? ????????) is located on the top of
+                            Chamundi Hills about 13 km from the palace city of Mysore in the state of Karnataka
+                            in India. The temple was named after Chamundeshwari or Durga, the fierce form of
+                            Shakti, a tutelary deity held in reverence for centuries by Mysore Maharajas. The
+                            Chamundeshwari Temple is considered as a Shakti Peetha and one among the 18 Maha
+                            Shakti Peethas. It is known as Krouncha Pitham as the region was known in Puranic
+                            times as Krouncha Puri.
+                            <br>
+                            <br>
+                        <p></p>
+                        <br>
+                        <p>
+                            <img width="193" height="153" src=" images/aboutmysore6.jpg" alt="Smiley face" style="float: left; padding-right: 20px">
+                            </p><h3>
+                                Talakadu
+                            </h3>
+                            Towards the eastern side is the ancient capital of Talakadu with numerous temples
+                            buried under sand dunes. Near to Talakkadu is Somnathpur, known for the Hoysala
+                            style Keshava temple. Further east of Somnathpur is Shivanasamudra (Bluff) with
+                            the twin waterfalls &ndash; Gaganachukki and Barachukki ( Bharachukki).<br>
+                            <br>
+                            Mysore to Somnathpur distance is about 40km. Somnathpur to Talakadu is some 30km.
+                            Bluff is another 35km northeast of Talakadu. Somnathpur-Shivanasamudra-Talakadu
+                            make a triangular route ideal for a days trip, if one can start a bit early from
+                            Mysore and prepare for a bit hectic schedule. Both Shivanasamudra and Talakadu involves
+                            some trek.<br>
+                            <br>
+                        <p></p>
+                        <p id="krs">
+                            <img width="193" height="153" src=" images/krs.jpg" alt="Smiley face" style="float: right; padding-left: 20px;">
+                            </p><h3>
+                                Krishna Raja Sagara Dam (KRS)</h3>
+                            The Krishnaraja Sagar reservoir across the legendary Cauvery River is round 18km
+                            north-west of Mysore. The Brindavan Gardens are located just a level below the dam.Often
+                            described as the best example of illuminated terrace gardens in the country, the
+                            idea was brainchild of Sir M.Visveshwaraiah and Sir Mirza M ismail, former Devans
+                            of Mysore. The overall design here displays an orientation of Mughal patterns-with
+                            garden paths and a shimmering necklace of fountains.On the South bank there is a
+                            pavilion, where visitors can get a breathtaking view of the gardens. Other highlights
+                            at the gardens include a children’s park, a fisheries station and a hydraulic research
+                            station. Adding a touch of sanctity to the place is a beautiful sculpture of Goddess
+                            Cauvery at the foot of the dam.
+                        <p></p>
+                        <br>
+                        <p id="philos">
+                            <img width="193" height="153" src=" images/mysore-st.polish.jpg" alt="Smiley face" style="float: left; padding-right: 20px">
+                            </p><h3>
+                                St. Philomena's Church</h3>
+                            This beautiful St.Philomena's Church was built in 1956 and is one of the largest
+                            churches in the country. The illuminated church in the evening is a wonderful site
+                            not to be missed. St. Philomena's Cathedral is among the most majestic churches
+                            in India. Drawing inspiration from Germany's Cologne Cathedral, this colossal church
+                            built in the neo-Gothic style.<br>
+                            <br>
+                            The twin spires of the Cathedral, 175 feet in height, are seen from miles around
+                            making it a distinctive city landmark. The main hall or nave of the cathedral can
+                            seat up to 800 people and is as exquisitely conceived as the ornately crafted exterior
+                            with beautiful stained glass windows depicting scenes from the birth of Christ,
+                            the Last Supper, the Crucifixion, the Resurrection and the Ascension of Christ.<br>
+                            <br>
+                        <p></p>
+                        <p>
+                            <img width="193" height="153" src=" images/halebeedu.jpg" alt="Smiley face" style="float: right; padding-left: 20px;">
+                            </p><h3>
+                                Halebidu
+                            </h3>
+                            Halebidu is located in Hassan district in Karnataka. Ketumalla, the chief of staff
+                            of Hoysala Kingdom, built this temple during 1121 A.D and attributed to his king,
+                            Vishnuvardhana and queen, Shantala Devi. Even then it is learnt that it took 105
+                            years to complete. If one stands on the platform of the temple and sees around he
+                            will see the hills opposite and two big bulls facing the temple and Ganesha figure
+                            on the south.<br>
+                            Halebidu was the 12th century capital of the Hoysalas. The Hoysaleswara temple was
+                            built during this time by Ketamala and attributed to Vishnuvardhana, the Hoysala
+                            ruler. It enshrines Hoysaleswara and Shantaleswara, named after the temple builder
+                            Vishnuvardhana Hoysala and his wife, Queen Shantala.
+                        <p></p>
+                        <br>
+                        <p>
+                            <img width="193" height="153" src=" images/tippu.jpg" alt="Smiley face" style="float: left; padding-right: 20px">
+                            </p><h3>
+                                The Mausoleum At Gumbaz, Srirangapatna</h3>
+                            Gumbaz is the burial chamber of Tipu Sultan, his father Haider Ali and mother Fatima
+                            Begum. It is built on a lifted platform and is circumvented by various other tombs
+                            of his relatives and nobles. The Gumbaz has magnificent ebony doors decorated with
+                            ivory which was presented by Lord Dalhousie. The interior walls are covered with
+                            lacquer Tiger stripes which is Tipu's favourite. A corridor lined by pillars of
+                            black amphibole walls Gumbaz. Masjid-e-aksa a mosque is situated next to the Gumbaz.
+                            The Gumbaz is surrounded by a beautiful gardens adds to its beauty.
+                            <br>
+                            <br>
+                        <p></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <!-- Contant End-->
+    </div>
+    <div style="text-align:justify; padding-right:10px" id="howtoreach">
+        <h1>
+            How to Reach Mysore</h1>
+        <div id="ByRoad">
+            <b>By Road </b>
+            <br>
+            Mysore is 139kms to the south west of Bangalore. The state highway that connects
+            these two cities is very well maintained. Travelling from Bangalore to Mysore by
+            road is a pleasant experience and will take about 3hrs. The Karnataka Road Transport
+            Corporation has excellent bus service to Mysore. There are ordinary buses, semi-luxury
+            buses and luxury buses operated by the Government of Karnataka. Every half an hour
+            there is a non-stop bus to Mysore from Bangalore Bus Station. Corporations of other
+            states and private tour operators have buses plying to Mysore as well. All these
+            facilities have made Mysore extremely accessible by road.
+        </div>
+        <br>
+        <div id="ByTrain">
+            <b>By Train </b>
+            <br>
+            Mysore is connected with a number of trains to Bangalore. The super fast luxury
+            train the Shatabdi Express connects Mysore to Madras. The quickest and most comfortable
+            way to reach Mysore is via Bangalore.
+        </div>
+        <br>
+        <div id="byair">
+            <b>By Air</b><br>
+            The nearest airport to Mysore is Bangalore (139 km). All the domestic airlines in
+            the country operate their flights to Bangalore from all the major cities in the
+            country. Some international airlines too have flights to Bangalore. Bangalore is
+            to have an international airport shortly.
+        </div>
+        <br>
+    </div>
+    <div style="text-align:justify; padding-right:10px" id="culture">
+        <h1>
+            Culture of Mysore</h1>
+        <div>
+            Mysore has been a city where all religions have co-existed in harmony for many centuries.
+            Even when Mysore was culturally at its zenith under the Vijayanagar Empire and the
+            Wodeyars the rulers always encouraged all religions and cultures without any discrimination.
+            The continuous patronage and support of the Kings in every field led to the evolution
+            of a distinct style known as the "Mysore Style" in the all the fields like painting,
+            architecture, music, poetry etc. Over a period of time as this culture spread far
+            and wide it was prefixed with the word "Mysore" to identify the unique cultural
+            heritage. To this day in Karnataka the best quality jasmine flowers are referred
+            to as Mysooru Maligae (Mysore Jasmine).
+        </div>
+        <div>
+            Over the years Mysore has become a cosmopolitan city with people from different
+            walks of life living together peacefully. In Mysore people practicing different
+            faiths live harmoniously. This has helped the city develop. The people of Mysore
+            take part in each other's festivals and celebrations. The Kings of Mysore have laid
+            a strong foundation for communal harmony by making generous contributions towards
+            religious centers of all religions. This tradition is still followed in Mysore.
+        </div>
+        <div>
+            The Hindu community is the largest religious community in the city. Muslims form
+            another prominent community in the city and there is a sizeable population of Jains
+            as well. One finds people from different parts of the country, speaking different
+            languages, celebrating different festivals all co-existing peacefully. Though Mysore
+            has become a modern city it has not lost touch with its tradition and culture. The
+            ultimate expression of cultural unity is witnessed during the 10 daylong Dasara
+            festivities that is synonymous with Mysore. The celebration not only includes religious
+            ceremonies but also the decoration of houses, display of dolls, distribution of
+            sweets to neighbours and children. The residents of Mysore have celebrated Dasara
+            in this manner for decades.
+        </div>
+        <div>
+            The high point of the celebration in the olden days was the "Jamboo Savari" or the
+            procession of the Maharaja on elephant back through the streets of Mysore. It is
+            said that Dasara was celebrated in this manner from the times of the epics and was
+            continued by all the Kings of Mysore. Even today Dasara is celebrated with the same
+            pomp and splendor with some minor changes. Now the Royal Elephant carries the golden
+            idol of Goddess Chamundhi in the splendid procession through the streets of Mysore.
+            Though Mysore has become a modern city and has all the comforts of modern development,
+            this city has managed to retain all its old world charm.
+        </div>
+        <br>
+    </div>
+
+                    </div>
+

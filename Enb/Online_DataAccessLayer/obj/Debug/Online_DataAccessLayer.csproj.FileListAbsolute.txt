@@ -1,0 +1,29 @@
+E:\2010 students\Building a Multiple-criteria negotiation support system\Online_DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\2010 students\Building a Multiple-criteria negotiation support system\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.dll
+E:\2010 students\Building a Multiple-criteria negotiation support system\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.pdb
+E:\2010 students\Building a Multiple-criteria negotiation support system\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.dll
+E:\2010 students\Building a Multiple-criteria negotiation support system\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.pdb
+E:\2010 students\Building a Multiple-criteria negotiation support system\Online_DataAccessLayer\bin\Debug\Online_TransportLayer.dll
+E:\2010 students\Building a Multiple-criteria negotiation support system\Online_DataAccessLayer\bin\Debug\Online_TransportLayer.pdb
+D:\project architech\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.dll
+D:\project architech\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.pdb
+D:\project architech\Online_DataAccessLayer\bin\Debug\Online_TransportLayer.dll
+D:\project architech\Online_DataAccessLayer\bin\Debug\Online_TransportLayer.pdb
+D:\project architech\Online_DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\project architech\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.dll
+D:\project architech\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.pdb
+D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.dll
+D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.pdb
+D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\Online_DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.dll
+D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.pdb
+E:\younus\StudentProject2014\EnablingData\NIE\Project_Code\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.dll
+E:\younus\StudentProject2014\EnablingData\NIE\Project_Code\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.pdb
+E:\younus\StudentProject2014\EnablingData\NIE\Project_Code\Online_DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\younus\StudentProject2014\EnablingData\NIE\Project_Code\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.dll
+E:\younus\StudentProject2014\EnablingData\NIE\Project_Code\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.pdb
+S:\Projects\Final Year Project\Enb\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.dll
+S:\Projects\Final Year Project\Enb\Online_DataAccessLayer\bin\Debug\Online_DataAccessLayer.pdb
+S:\Projects\Final Year Project\Enb\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.csprojResolveAssemblyReference.cache
+S:\Projects\Final Year Project\Enb\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.dll
+S:\Projects\Final Year Project\Enb\Online_DataAccessLayer\obj\Debug\Online_DataAccessLayer.pdb

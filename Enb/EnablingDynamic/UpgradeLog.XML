@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EnablingDynamic (2)">
+</Property><Property Name="Solution File" Value="D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\EnablingDynamic (2).sln">
+</Property><Property Name="Date" Value="Tuesday, February 25, 2014">
+</Property><Property Name="Time" Value="18:40:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\Online_DataAccessLayer.csproj" Description="Project file successfully backed up as D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\Backup\Online_DataAccessLayer.csproj">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\DataAccess.cs" Description="File successfully backed up as D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\Backup\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\Globals.cs" Description="File successfully backed up as D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\Backup\Globals.cs">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\SQlDataAccess.cs" Description="File successfully backed up as D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\Backup\SQlDataAccess.cs">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\Sqlquery.cs" Description="File successfully backed up as D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\Backup\Sqlquery.cs">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\SQLQueryBuilder.cs" Description="File successfully backed up as D:\younus\student Project\_Final\Enabling-Dynamic\Project_Code\EnablingDynamic\Backup\SQLQueryBuilder.cs">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\Online_DataAccessLayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\Online_DataAccessLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Online_DataAccessLayer" Source="..\Online_DataAccessLayer\Online_DataAccessLayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

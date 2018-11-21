@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EnablingDynamic", ".", "{B9322CE1-D0B5-4A12-AD81-EFA22652CCF8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{493BF446-8FB8-4919-8EF6-8632A7D8947E}|Online_DataAccessLayer.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/EnablingDynamic"
+		Debug.AspNetCompiler.PhysicalPath = "..\EnablingDynamic\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\EnablingDynamic\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/EnablingDynamic"
+		Release.AspNetCompiler.PhysicalPath = "..\EnablingDynamic\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\EnablingDynamic\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2480"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online_DataAccessLayer", "..\Online_DataAccessLayer\Online_DataAccessLayer.csproj", "{493BF446-8FB8-4919-8EF6-8632A7D8947E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9322CE1-D0B5-4A12-AD81-EFA22652CCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9322CE1-D0B5-4A12-AD81-EFA22652CCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9322CE1-D0B5-4A12-AD81-EFA22652CCF8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9322CE1-D0B5-4A12-AD81-EFA22652CCF8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{493BF446-8FB8-4919-8EF6-8632A7D8947E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493BF446-8FB8-4919-8EF6-8632A7D8947E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493BF446-8FB8-4919-8EF6-8632A7D8947E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493BF446-8FB8-4919-8EF6-8632A7D8947E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+declare @Sid int;
+	while exists(select Server_Id from dbo.tbl_Server
+	where Server_IsFree = 'true')
+	BEGIN
+	if exists (select RequestFile_Id from dbo.tbl_RequestFile
+	where FK_RequestFile_Server_Id = 0)
+	BEGIN
+	declare @Rid int;
+	set @Rid = (select top 1 RequestFile_Id from dbo.tbl_RequestFile
+	order by RequestFile_StartTime desc)
+	
+	set @Sid = (select top 1 Server_Id from dbo.tbl_Server
+	where Server_IsFree = 'true')
+	
+	update dbo.tbl_RequestFile set
+	FK_RequestFile_Server_Id = @Sid
+	where RequestFile_Id = @Rid
+	
+	update dbo.tbl_Server set 
+	Server_IsFree = 'false'
+	where Server_Id = @Sid
+	
+	END
+	END

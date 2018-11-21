@@ -1,0 +1,83 @@
+if not exists (select * from dbo.tbl_Attandence
+    where FK_Attandence_Subject_Id = @Subject)
+    begin
+	select UserCred_RegId,null as Attandence_TotalClasses,
+	null as Attandence_ClassesAttended,
+	null as Attandence_CutOff
+	 from dbo.tbl_UserCred,dbo.tbl_ClassInfo
+	where FK_ClassInfo_Branch_Id = @Branch and
+	FK_ClassInfo_UserCred_Id = UserCred_Id and
+	ClassInfo_Year = @Year and ClassInfo_Sem = @Sem and
+	ClassInfo_Section = @Sec
+	end
+	else
+	begin
+	select UserCred_RegId,
+	Attandence_TotalClasses,
+	Attandence_ClassesAttended,
+	Attandence_CutOff
+	 from dbo.tbl_UserCred,dbo.tbl_ClassInfo,dbo.tbl_Attandence
+	where FK_ClassInfo_Branch_Id = @Branch and
+	FK_ClassInfo_UserCred_Id = UserCred_Id and
+	ClassInfo_Year = @Year and ClassInfo_Sem = @Sem and
+	ClassInfo_Section = @Sec and
+	FK_Attandence_UserCred_Id = UserCred_Id and
+	FK_Attandence_Subject_Id = @Subject
+	end
+
+
+====================================================================
+
+ALTER PROCEDURE [dbo].[getStudentsInternalMarks]
+	-- Add the parameters for the stored procedure here
+	@Branch int,
+@Year int,
+@Sem int,
+@Sec varchar(10),
+@Subject int
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+    if not exists (select * from dbo.tbl_InternalMarks
+    where FK_InternalMarks_Subject_Id = @Subject)
+    begin
+	select UserCred_RegId,null as marks,
+	null as First,
+	null as Second,
+	null as Third,
+	null as Exam
+	 from dbo.tbl_UserCred,dbo.tbl_ClassInfo
+	where FK_ClassInfo_Branch_Id = @Branch and
+	FK_ClassInfo_UserCred_Id = UserCred_Id and
+	ClassInfo_Year = @Year and ClassInfo_Sem = @Sem and
+	ClassInfo_Section = @Sec
+	end
+	else
+	begin
+	with t1 as (select UserCred_RegId,InternalMarks_marks as marks
+	from dbo.tbl_UserCred,dbo.tbl_ClassInfo,dbo.tbl_InternalMarks
+	where FK_ClassInfo_Branch_Id = @Branch and
+	FK_ClassInfo_UserCred_Id = UserCred_Id and
+	ClassInfo_Year = @Year and ClassInfo_Sem = @Sem and
+	ClassInfo_Section = @Sec and FK_InternalMarks_UserCred_Id = UserCred_Id
+	and FK_ClassInfo_UserCred_Id = FK_InternalMarks_UserCred_Id
+	and FK_InternalMarks_Subject_Id = @Subject),
+	
+	
+	t2 as (select UserCred_RegId,',,,' as marks
+	from dbo.tbl_UserCred,dbo.tbl_ClassInfo,dbo.tbl_InternalMarks
+	where FK_ClassInfo_Branch_Id = @Branch and
+	FK_ClassInfo_UserCred_Id = UserCred_Id and
+	ClassInfo_Year = @Year and ClassInfo_Sem = @Sem and
+	ClassInfo_Section = @Sec and FK_InternalMarks_UserCred_Id != UserCred_Id
+	and FK_ClassInfo_UserCred_Id != FK_InternalMarks_UserCred_Id
+	and FK_InternalMarks_Subject_Id != @Subject)
+	
+	select * from  t1 union all select * from t2
+	end
+END
+====================================================================

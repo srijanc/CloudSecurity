@@ -1,0 +1,40 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class FibChk
+{
+    public static void main(String[] args) 
+    {
+        Scanner sn = new Scanner(System.in);
+        double T = sn.nextDouble(); 
+        double N;
+                
+        for(double i=0;i<T;i++)
+        {
+            double x=0,y=1,z=x+y;
+            boolean f=false;
+            N = sn.nextDouble();
+            while(z<=N)
+            {               
+            x=y;
+            y=z;
+            z=x+y;
+
+            if(z==N)
+            {
+                System.out.println("IsFibo");
+                f=true;
+            }
+            }
+            if(f==false)
+                System.out.println("IsNotFibo");
+            
+            if(N==1 || N==0)
+              System.out.println("IsFibo");
+        }
+        
+     }
+}
